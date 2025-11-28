@@ -1,4 +1,3 @@
-# Scripts-for-Extraction-Climate-Data
 
 # README: ERA5-Land Precipitation & Temperature Processing Pipeline
 
